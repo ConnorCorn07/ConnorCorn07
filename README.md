@@ -8,6 +8,7 @@
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/connorcorn07)
 [![Email](https://img.shields.io/badge/Email-connorcorn07%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:connorcorn07@gmail.com)
 [![GitHub Org](https://img.shields.io/badge/Corn%20Studios-github.com%2FCorn--Studios-181717?style=flat&logo=github&logoColor=white)](https://github.com/Corn-Studios)
+[![Website](https://img.shields.io/badge/Website-cornstudios.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white)](http://cornstudios.dev)
 
 </div>
 
@@ -28,10 +29,10 @@ I'm an 18-year-old cybersecurity major on a full academic scholarship, building 
 
 | Project | Description | Repo |
 |---------|-------------|------|
-| **CornTools** | Unified launcher & manager for all Corn Studios tools (C#) | [Corn-Studios](https://github.com/Corn-Studios) |
-| **CornWatch** | System health dashboard — CPU-Z + GPU-Z style monitoring | [Corn-Studios](https://github.com/Corn-Studios) |
-| **Win11 Optimizer** | C# WinForms/.NET 8 app for optimizing Windows 11 | [ConnorCorn07/win11op](https://github.com/ConnorCorn07/win11op) |
-| **CornDownloader** | Auto-downloader for fresh Windows installs via winget | [ConnorCorn07/CornDownloader](https://github.com/ConnorCorn07/CornDownloader) |
+| **CornTools** | Unified launcher & manager for all Corn Studios tools (C#) | [Corn-Studios/CornTools](https://github.com/Corn-Studios/CornTools) |
+| **CornWatch** | System health dashboard — CPU-Z + GPU-Z style monitoring | [Corn-Studios/CornWatch](https://github.com/Corn-Studios/CornWatch) |
+| **Win11 Optimizer** | C# WinForms/.NET 8 app for optimizing Windows 10/11 — bloatware removal, privacy, gaming & network tweaks | [Corn-Studios/win11op](https://github.com/Corn-Studios/win11op) |
+| **CornDownloader** | Auto-downloader for fresh Windows installs via winget | [Corn-Studios/CornDownloader](https://github.com/Corn-Studios/CornDownloader) |
 
 ---
 
