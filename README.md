@@ -7,7 +7,7 @@
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/cornstudiosdev)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/connorcorn07)
 [![Email](https://img.shields.io/badge/Email-connorcorn07%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:connorcorn07@gmail.com)
-[![GitHub Org](https://img.shields.io/badge/Corn%20Studios-github.com%2FCorn--Studios-181717?style=flat&logo=github&logoColor=white)](https://github.com/Corn-Studios)
+[![GitHub Org](https://img.shields.io/badge/Corn%20Systems-github.com%2FCorn--Systems-181717?style=flat&logo=github&logoColor=white)](https://github.com/Corn-Systems)
 [![Website](https://img.shields.io/badge/Website-cornstudios.dev-0A66C2?style=flat&logo=googlechrome&logoColor=white)](http://cornstudios.dev)
 
 </div>
@@ -16,23 +16,23 @@
 
 ## About Me
 
-I'm an 18-year-old cybersecurity major on a full academic scholarship, building open source software under my org **[Corn Studios](https://github.com/Corn-Studios)**. When I'm not coding, I'm probably working on one of my many car projects or listening to music
+I'm an 18-year-old cybersecurity major on a full academic scholarship, building open source software under my org **[Corn Systems](https://github.com/Corn-Systems)**. When I'm not coding, I'm probably working on one of my many car projects or listening to music
 
 - 🎓 Cybersecurity major, full academic scholarship
 - 🚗 Passionate about cars
 - 🎸 Nu Metal / Punk Rock / Classic Rock fanatic
-- 🌽 Founder of **Corn Studios**
+- 🌽 Founder of **Corn Systems**
 
 ---
 
-## 🌽 Corn Studios Projects
+## 🌽 Corn Systems Projects
 
 | Project | Description | Repo |
 |---------|-------------|------|
-| **CornTools** | Unified launcher & manager for all Corn Studios tools (C#) | [Corn-Studios/CornTools](https://github.com/Corn-Studios/CornTools) |
-| **CornWatch** | System health dashboard — CPU-Z + GPU-Z style monitoring | [Corn-Studios/CornWatch](https://github.com/Corn-Studios/CornWatch) |
-| **Win11 Optimizer** | C# WinForms/.NET 8 app for optimizing Windows 10/11 — bloatware removal, privacy, gaming & network tweaks | [Corn-Studios/win11op](https://github.com/Corn-Studios/win11op) |
-| **CornDownloader** | Auto-downloader for fresh Windows installs via winget | [Corn-Studios/CornDownloader](https://github.com/Corn-Studios/CornDownloader) |
+| **CornTools** | Unified launcher & manager for all Corn Systems tools (C#) | [Corn-Systems/CornTools](https://github.com/Corn-Systems/CornTools) |
+| **CornWatch** | System health dashboard — CPU-Z + GPU-Z style monitoring | [Corn-Systems/CornWatch](https://github.com/Corn-Systems/CornWatch) |
+| **Win11 Optimizer** | C# WinForms/.NET 10 app for optimizing Windows 10/11 — bloatware removal, privacy, gaming & network tweaks | [Corn-Systems/win11op](https://github.com/Corn-Systems/win11op) |
+| **CornDownloader** | Auto-downloader for fresh Windows installs via winget | [Corn-Systems/CornDownloader](https://github.com/Corn-Systems/CornDownloader) |
 
 ---
 
