@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Connor 👋
+# I'm Connor
 
 **Cybersecurity student • Open source builder • Car enthusiast**
 
@@ -34,16 +34,6 @@ I'm an 18-year-old cybersecurity major on a full academic scholarship, building 
 | **Win11 Optimizer** | C# WinForms/.NET 10 app for optimizing Windows 10/11 — bloatware removal, privacy, gaming & network tweaks | [Corn-Systems/win11op](https://github.com/Corn-Systems/win11op) |
 | **CornDownloader** | Auto-downloader for fresh Windows installs via winget | [Corn-Systems/CornDownloader](https://github.com/Corn-Systems/CornDownloader) |
 
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorCorn07&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorCorn07&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
 </div>
 
 ---
@@ -52,8 +42,8 @@ I'm an 18-year-old cybersecurity major on a full academic scholarship, building 
 
 Need a **website**, **Minecraft server setup**, or a **custom Windows utility**? I'm available for freelance work.
 
-- 💛 **[Buy me a coffee on Ko-fi](https://ko-fi.com/cornstudiosdev)** — support open source development
-- 💼 **[Hire me on Fiverr](https://www.fiverr.com/connorcorn07)** — commissions & freelance work
+- 💛 **[Buy me a coffee on Ko-fi](https://ko-fi.com/cornstudiosdev)** - support open source development
+- 💼 **[Hire me on Fiverr](https://www.fiverr.com/connorcorn07)** - commissions & freelance work
 - 📧 **[connorcorn07@gmail.com](mailto:connorcorn07@gmail.com)** — direct contact
 
 ---
