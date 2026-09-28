@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm an 19-year-old cybersecurity major on a full academic scholarship, building open source software under my org **[Corn Systems](https://github.com/Corn-Systems)**. When I'm not coding, I'm probably working on one of my many car projects or listening to music
+I'm a 19-year-old cybersecurity major on a full academic scholarship, building open source software under my org **[Corn Systems](https://github.com/Corn-Systems)**. When I'm not coding, I'm probably working on one of my many car projects or listening to music
 
 - 🎓 Cybersecurity major, full academic scholarship
 - 🚗 Passionate about cars
