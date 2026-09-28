@@ -28,12 +28,21 @@ I'm an 18-year-old cybersecurity major on a full academic scholarship, building 
 ## 🌽 Corn Systems Projects
 
 | Project | Description | Repo |
-|---------|-------------|------|
+| --- | --- | --- |
 | **CornTools** | Unified launcher & manager for all Corn Systems tools (C#) | [Corn-Systems/CornTools](https://github.com/Corn-Systems/CornTools) |
-| **CornWatch** | System health dashboard — CPU-Z + GPU-Z style monitoring | [Corn-Systems/CornWatch](https://github.com/Corn-Systems/CornWatch) |
 | **Win11 Optimizer** | C# WinForms/.NET 10 app for optimizing Windows 10/11 — bloatware removal, privacy, gaming & network tweaks | [Corn-Systems/win11op](https://github.com/Corn-Systems/win11op) |
 | **CornDownloader** | Auto-downloader for fresh Windows installs via winget | [Corn-Systems/CornDownloader](https://github.com/Corn-Systems/CornDownloader) |
+| **CornWatch** | System health dashboard — CPU-Z + GPU-Z style monitoring | [Corn-Systems/CornWatch](https://github.com/Corn-Systems/CornWatch) |
 
+--
+
+<div align="center">
+  <a href="https://github.com/ConnorCorn07">
+    <img src="https://github-stats-extended.vercel.app/api?username=ConnorCorn07&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ConnorCorn07">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ConnorCorn07&langs_count=5&theme=midnight-purple" alt="Top Languages" />
+  </a>
 </div>
 
 ---
