@@ -34,7 +34,7 @@ I'm a 19-year-old cybersecurity major on a full academic scholarship, building o
 | **CornDownloader** | Auto-downloader for fresh Windows installs via winget | [Corn-Systems/CornDownloader](https://github.com/Corn-Systems/CornDownloader) |
 | **CornWatch** | System health dashboard — CPU-Z + GPU-Z style monitoring | [Corn-Systems/CornWatch](https://github.com/Corn-Systems/CornWatch) |
 
---
+---
 
 <div align="center">
   <a href="https://github.com/ConnorCorn07">
@@ -53,12 +53,12 @@ Need a **website**, **Minecraft server setup**, or a **custom Windows utility**?
 
 - 💛 **[Buy me a coffee on Ko-fi](https://ko-fi.com/cornstudiosdev)** - support open source development
 - 💼 **[Hire me on Fiverr](https://www.fiverr.com/connorcorn07)** - commissions & freelance work
-- 📧 **[connorcorn07@gmail.com](mailto:connorcorn07@gmail.com)** — direct contact
+- 📧 **[connorcorn07@gmail.com](mailto:connorcorn07@gmail.com)** - direct contact
 
 ---
 
 <div align="center">
 
-*Thanks for stopping by! If any of my projects helped you, drop a ⭐ — it goes a long way.*
+*Thanks for stopping by! If any of my projects helped you, drop a ⭐ - it goes a long way.*
 
 </div>
